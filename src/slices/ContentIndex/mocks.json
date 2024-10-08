@@ -1,0 +1,56 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "FieldContent",
+				"value": "sure",
+				"type": "Text"
+			},
+			"content_type": {
+				"__TYPE__": "FieldContent",
+				"value": "Project",
+				"type": "Select"
+			},
+			"description": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Mollit tempor nulla ullamco officia cillum ex esse est est aute. Quis do do laboris deserunt aliqua consectetur culpa quis ea. Eu ex officia amet qui fugiat sunt culpa consequat aute."
+						}
+					}
+				]
+			},
+			"view_more_text": {
+				"__TYPE__": "FieldContent",
+				"value": "model",
+				"type": "Text"
+			},
+			"fallback_item_image": {
+				"__TYPE__": "ImageContent",
+				"origin": {
+					"id": "main",
+					"url": "https://images.unsplash.com/photo-1544731612-de7f96afe55f",
+					"width": 6000,
+					"height": 4000
+				},
+				"url": "https://images.unsplash.com/photo-1544731612-de7f96afe55f",
+				"width": 6000,
+				"height": 4000,
+				"edit": {
+					"zoom": 1,
+					"crop": {
+						"x": 0,
+						"y": 0
+					},
+					"background": "transparent"
+				},
+				"thumbnails": {}
+			}
+		},
+		"items": []
+	}
+]
