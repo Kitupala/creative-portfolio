@@ -144,7 +144,7 @@ export default function ContentList({
                       {item.data.title}
                     </span>
                     <div className="flex gap-2 text-lg text-yellow-400">
-                      {item.tags.map((tag, index) => (
+                      {item.tags.map((tag) => (
                         <>
                           <span className="first:hidden">|</span>
                           <span>{tag}</span>
